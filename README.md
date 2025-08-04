@@ -1,4 +1,4 @@
-##### Netflix Data Analysis Dashboard (Power BI)
+# Netflix Data Analysis Dashboard (Power BI)
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-**Project Overview**
+## **Project Overview**
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-**Key Insights**
+## **Key Insights**
 
 
 
@@ -38,13 +38,14 @@
 
 
 
-###### Author
+## Author
 
 **Naveen Kumar**
 
 Aspiring Data Analyst skilled in Excel, SQL, Power BI, and Python
 
 \[[linkedin.com/in/naveen-kumar-ababa7326](https://www.linkedin.com/in/naveen-kumar-ababa7326/)]
+
 
 
 
